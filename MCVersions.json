@@ -1292,6 +1292,14 @@
         "versionName": "1.16.4"
     },
     {
+        "dataVersion": 2585,
+        "versionName": "1.16.5 Release Candidate 1"
+    },
+    {
+        "dataVersion": 2586,
+        "versionName": "1.16.5"
+    },
+    {
         "dataVersion": 2681,
         "versionName": "20w45a"
     },
