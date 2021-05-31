@@ -1402,5 +1402,9 @@
     {
         "dataVersion": 2716,
         "versionName": "1.17 Pre-release 1"
+    },
+    {
+        "dataVersion": 2718,
+        "versionName": "1.17 Pre-release 2"
     }
 ]
