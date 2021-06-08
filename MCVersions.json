@@ -1426,5 +1426,9 @@
     {
         "dataVersion": 2723,
         "versionName": "1.17 Release Candidate 2"
+    },
+    {
+        "dataVersion": 2724,
+        "versionName": "1.17"
     }
 ]
