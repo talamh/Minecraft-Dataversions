@@ -1434,5 +1434,13 @@
     {
         "dataVersion": 2725,
         "versionName": "1.17.1 Pre-release 1"
+    },
+    {
+        "dataVersion": 2726,
+        "versionName": "1.17.1 Pre-release 2"
+    },
+    {
+        "dataVersion": 2727,
+        "versionName": "1.17.1 Pre-release 3"
     }
 ]
