@@ -1446,5 +1446,13 @@
     {
         "dataVersion": 2728,
         "versionName": "1.17.1 Release Candidate 1"
+    },
+    {
+        "dataVersion": 2729,
+        "versionName": "1.17.1 Release Candidate 2"
+    },
+    {
+        "dataVersion": 2730,
+        "versionName": "1.17.1"
     }
 ]
